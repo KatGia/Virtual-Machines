@@ -193,8 +193,7 @@ You now have a fully functional virtual environment for:
 ---
 
 When I first entered the world of Bioinformatics, I was not yet confident with coding. I was afraid that a wrong command could break my computer — a computer I had bought with my own savings. Using a Virtual Machine completely changed my experience:
-it allowed me to experiment freely, make mistakes, learn, and explore without fear of damaging anything. I hope this setup can help people who, like me, felt overwhelmed at the beginning.
-
+it allowed me to experiment freely, make mistakes, learn, and explore without fear of damaging anything. I am deeply grateful to my engineering friends, who encouraged me and pushed me to overcome this first difficulty. I hope this setup can help people who, like me, felt overwhelmed at the beginning.
 
 **Keep learning, be curious, and don’t be afraid to try things out.**
 This VM is your **protected, dedicated workspace for learning bioinformatics**. 
