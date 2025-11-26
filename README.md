@@ -167,4 +167,5 @@ It means the classification finished successfully.
 
 ---
 
-**Have fun, everyone!** 🚀
+## 🛠️ Resources for Further Study
+**W3Schools bash Tutorial:** https://www.w3schools.com/bash/
