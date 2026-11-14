@@ -191,6 +191,10 @@ You now have a fully functional virtual environment for:
 
 
 ---
+## License
+
+This material and its associated source code are distributed under the **MIT License** — see the [LICENSE](LICENSE) file for details. The code may be freely reused and adapted for teaching or research purposes with proper attribution to the original author.
+---
 
 When I first entered the world of Bioinformatics, I was not yet confident with coding. I was afraid that a wrong command could break my computer — a computer I had bought with my own savings. Using a Virtual Machine completely changed my experience:
 it allowed me to experiment freely, make mistakes, learn, and explore without fear of damaging anything. I am deeply grateful to my engineering friends, who encouraged me and pushed me to overcome this first difficulty. I hope this setup can help people who, like me, felt overwhelmed at the beginning.
@@ -199,4 +203,5 @@ it allowed me to experiment freely, make mistakes, learn, and explore without fe
 This VM is your **protected, dedicated workspace for learning bioinformatics**. 
 
 **Have fun, everyone!** 🚀
+
 
