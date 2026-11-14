@@ -191,9 +191,8 @@ You now have a fully functional virtual environment for:
 
 
 ---
-# **License**
-
-This material and its associated source code are distributed under the **MIT License** — see the [LICENSE](LICENSE) file for details. The code may be freely reused and adapted for teaching or research purposes with proper attribution to the original author.
+**License**
+* This material and its associated source code are distributed under the **MIT License** — see the [LICENSE](LICENSE) file for details. The code may be freely reused and adapted for teaching or research purposes with proper attribution to the original author.
 ---
 
 When I first entered the world of Bioinformatics, I was not yet confident with coding. I was afraid that a wrong command could break my computer — a computer I had bought with my own savings. Using a Virtual Machine completely changed my experience:
