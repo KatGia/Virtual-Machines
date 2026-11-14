@@ -191,7 +191,7 @@ You now have a fully functional virtual environment for:
 
 
 ---
-## **License**
+# **License**
 
 This material and its associated source code are distributed under the **MIT License** — see the [LICENSE](LICENSE) file for details. The code may be freely reused and adapted for teaching or research purposes with proper attribution to the original author.
 ---
